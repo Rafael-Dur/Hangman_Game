@@ -1,0 +1,6 @@
+python,
+computadora,
+programacion,
+algoritmo,
+variable,
+funcion
