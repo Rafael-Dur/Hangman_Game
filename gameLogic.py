@@ -1,8 +1,6 @@
-from words import get_random_word
+from words import create_hidden_word, get_random_word, is_word_completed
 from utils import (
-    create_hidden_word,
-    reveal_letters,
-    is_word_completed
+    reveal_letters
 )
 from userInterface import (
     show_hidden_word,
